@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class WeekPlanner {
@@ -47,6 +48,7 @@ public class WeekPlanner {
                 case "saturday":
                     System.out.println("Your tasks for Saturday: " + schedule[6][1]);
                     break;
+                //almkskmagit
 
                 default:
                     System.out.println("Sorry, I don't understand you, please try again.");
